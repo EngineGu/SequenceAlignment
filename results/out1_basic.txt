@@ -1,0 +1,8 @@
+16
+168
+168
+True
+CCAC_CAG_G
+_CATGCA_TG
+0.0
+15052
